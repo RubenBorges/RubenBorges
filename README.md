@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RubenBorges
-- 👀 I’m interested in ...F/S
-- 🌱 I’m currently learning ... C++, QT, Jacvascript, microcontrollers..
-- 💞️ I’m looking to collaborate in ... le future
+- 👀 I’m interested in ...Full stack development; OpenGL & Vulkan Graphics ;
+- 🌱 I’m currently learning ... C/C++/C#, QT, Javascript,XAML,embedde..
+- 💞️ I’m looking to collaborate in ... the future
 - 📫 How to reach me ... Don't
 - ⚡ Fun fact: ... fACt!
 
