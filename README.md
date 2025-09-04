@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RubenBorges
 - 👀 I’m interested in ...Full stack development; OpenGL & Vulkan Graphics ;
-- 🌱 I’m currently learning ... C/C++/C#, QT, Javascript,XAML,embedde..
-- 💞️ I’m looking to collaborate in ... the future
-- 📫 How to reach me ... Don't
+- 🌱 I’m currently learning ... C/C++/C#, QT, Javascript,XAML,embedded (ESP32, Arduino)..
 - ⚡ Fun fact: ... fACt!
 
 <!---
